@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cloud\\Documents\\GitHub\\sznikak2\\PersonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61632E12-BF97-4097-AAB7-8F3770213474}|PersonApp\\PersonApp.csproj|c:\\users\\cloud\\documents\\github\\sznikak2\\personapp\\personapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61632E12-BF97-4097-AAB7-8F3770213474}|PersonApp\\PersonApp.csproj|solutionrelative:personapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61632E12-BF97-4097-AAB7-8F3770213474}|PersonApp\\PersonApp.csproj|c:\\users\\cloud\\documents\\github\\sznikak2\\personapp\\personapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61632E12-BF97-4097-AAB7-8F3770213474}|PersonApp\\PersonApp.csproj|solutionrelative:personapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\cloud\\Documents\\GitHub\\sznikak2\\PersonApp\\PersonApp\\Person.cs",
+              "RelativeDocumentMoniker": "PersonApp\\Person.cs",
+              "ToolTip": "C:\\Users\\cloud\\Documents\\GitHub\\sznikak2\\PersonApp\\PersonApp\\Person.cs",
+              "RelativeToolTip": "PersonApp\\Person.cs",
+              "ViewState": "AQIAAAQAAABIZmZmZuYswB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:45:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cloud\\Documents\\GitHub\\sznikak2\\PersonApp\\PersonApp\\Program.cs",
+              "RelativeDocumentMoniker": "PersonApp\\Program.cs",
+              "ToolTip": "C:\\Users\\cloud\\Documents\\GitHub\\sznikak2\\PersonApp\\PersonApp\\Program.cs",
+              "RelativeToolTip": "PersonApp\\Program.cs",
+              "ViewState": "AQIAAAYAAABgLjMzMzMFwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:44:56.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

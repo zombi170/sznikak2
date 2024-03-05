@@ -1,0 +1,15 @@
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.exe
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.deps.json
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.runtimeconfig.json
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.dll
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.pdb
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfoInputs.cache
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfo.cs
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.sourcelink.json
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.dll
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\refint\PersonApp.dll
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.pdb
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.genruntimeconfig.cache
+C:\Users\cloud\Documents\GitHub\sznikak2\PersonApp\PersonApp\obj\Debug\net8.0\ref\PersonApp.dll
